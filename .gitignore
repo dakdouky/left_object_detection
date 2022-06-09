@@ -1,0 +1,8 @@
+__pycache__/
+ctr/
+infer_results/
+saved_models/
+videos/
+backgrounds/
+change_detection.onnx
+YOLOX_outputs/
